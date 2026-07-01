@@ -625,17 +625,6 @@ python -m ranking.benchmark --input data/candidates.jsonl
 ![Swagger UI][docs/images/]
 [def]: docs/images/swagger_fullWebsite.png
 
-### Ranking Response
-
-![Ranking Response](docs/images/ranking_response.png)
-
-### Generated Submission
-
-![Submission](docs/images/submission.png)
-
-### Performance Benchmark
-
-![Benchmark](docs/images/benchmark.png)
 
 ---
 
