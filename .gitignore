@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Local Database
+*.db
+
+# Generated submissions
+submission/*.csv
+submission/*.xlsx
+submission/submission_history.csv
+
+# Generated embedding cache
+data/candidates_embeddings.npz
+data/sample_candidates_embeddings.npz
+data/candidates.jsonl
+
+# Benchmark output
+benchmark/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Environment variables
+.env
+.env.*
+
+# HuggingFace cache
+.cache/
+
+# Claude development workspace
+.claude/
